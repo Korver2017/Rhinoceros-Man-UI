@@ -1,6 +1,6 @@
 # Rhinoceros Man UI
 
-undefined.
+undefined.<br>[](https://upload.cc/i1/2018/02/25/czF6VS.png)
 .
 .
 .
@@ -13,12 +13,13 @@ undefined.
 .
 .
 undefined
+[](https://upload.cc/i1/2018/02/25/Tnq23G.gif)
 ## 起手式
 
 Step 1 - [嫁給 RD 的 UI Designer Blog](https://blog.akanelee.me/)（基礎 and 重要觀念） + [臨摹幾個試著畫畫看](https://www.freepik.com/free-psd)
-Step 2 - [Material Design](https://material.io/guidelines/)（UI Designer 必讀入門磚）
-Step 3 - 選定欲投入之 UI 方向 - Web or iOS or Android
-Step 4 - 遵循選定 UI 類別之規範練習
+<br>Step 2 - [Material Design](https://material.io/guidelines/)（UI Designer 必讀入門磚）
+<br>Step 3 - 選定欲投入之 UI 方向 - Web or iOS or Android
+<br>Step 4 - 遵循選定 UI 類別之規範練習
 
 ## 蠔蚌蚌
 
@@ -39,6 +40,6 @@ Step 4 - 遵循選定 UI 類別之規範練習
 * 最近國外很流行「30 Days UI Challenge」，可以搜尋相關資源
 
 ## ↓↓↓↓↓ 不要懷疑！這是一隻瑜珈狗！ ↓↓↓↓↓
-
+[](https://upload.cc/i1/2018/02/25/FMHjwg.jpg)
 undefinedundefined
 
