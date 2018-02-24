@@ -13,7 +13,7 @@
 .<br>
 .<br>
 <br>
-<img width="500" src="https://upload.cc/i1/2018/02/25/Tnq23G.gif">
+<img width="100%" src="https://upload.cc/i1/2018/02/25/Tnq23G.gif">
 
 ## 起手式
 
